@@ -1,0 +1,2 @@
+# paradigmtodigital
+GitHub Pages
